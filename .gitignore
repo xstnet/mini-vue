@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+build/
+dist/
+
+# Logs and databases
+log/
+*.log
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+
+# Other
+*.swp
+*.bak
+*.tmp
+.history/
+
